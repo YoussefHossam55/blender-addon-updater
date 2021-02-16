@@ -32,7 +32,7 @@ bl_info = {
 
 import bpy
 
-# updater ops import, all setup in this file
+# updater ops import, all setup in this file 
 from . import addon_updater_ops
 
 
